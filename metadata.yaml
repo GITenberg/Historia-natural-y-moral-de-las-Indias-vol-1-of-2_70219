@@ -1,0 +1,42 @@
+_repo: Historia-natural-y-moral-de-las-Indias-vol-1-of-2_70219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Acosta, José de
+    aliases:
+    - Acosta, Jose de
+    - De Acosta, José
+    - Acosta, Joseph de
+    birthdate: 1540
+    deathdate: 1600
+    gutenberg_agent_id: '45903'
+    url: http://www.gutenberg.org/2009/agents/45903
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_de_Acosta
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_de_Acosta
+description: ''
+gutenberg_issued: '2023-03-06'
+identifiers:
+  gutenberg: '70219'
+language: es
+pgterms:marc905: 20070714104316acosta
+pgterms:marc906: '1894'
+pgterms:marc907: ES
+production_note: Andrés V. Galia, Adrian Mastronardi, Thiers and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aSpain :$bRamón Anglés Impresor, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Early accounts to 1600'
+- !lcsh 'America -- Description and travel'
+- !lcsh 'Acosta, José de, 1540-1600 -- Travel -- America'
+- !lcsh 'Indians of Mexico -- Early works to 1800'
+- !lcsh 'Indians of South America -- Early works to 1800'
+- !lcsh 'Natural history -- America'
+- !lcc 'E011'
+- GITenberg
+title: Historia natural y moral de las Indias (vol. 1 of 2)
+url: http://www.gutenberg.org/ebooks/70219
