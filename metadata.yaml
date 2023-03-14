@@ -1,5 +1,8 @@
 _repo: Historia-natural-y-moral-de-las-Indias-vol-1-of-2_70219
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70219-h/images/cover.jpg
 creator:
   author:
     agent_name: Acosta, José de
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jos%C3%A9_de_Acosta
     - https://es.wikipedia.org/wiki/Jos%C3%A9_de_Acosta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70219#Historia-natural-y-moral-de-las-Indias-vol-1-of-2
 gutenberg_issued: '2023-03-06'
 identifiers:
   gutenberg: '70219'
